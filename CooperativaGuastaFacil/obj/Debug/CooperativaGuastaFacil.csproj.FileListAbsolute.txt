@@ -1,0 +1,10 @@
+C:\Users\diego\OneDrive\Escritorio\CooperativaGuastaFacil\bin\Debug\CooperativaGuastaFacil.exe.config
+C:\Users\diego\OneDrive\Escritorio\CooperativaGuastaFacil\bin\Debug\CooperativaGuastaFacil.exe
+C:\Users\diego\OneDrive\Escritorio\CooperativaGuastaFacil\bin\Debug\CooperativaGuastaFacil.pdb
+C:\Users\diego\OneDrive\Escritorio\CooperativaGuastaFacil\obj\Debug\CooperativaGuastaFacil.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\CooperativaGuastaFacil\obj\Debug\CooperativaGuastaFacil.Form1.resources
+C:\Users\diego\OneDrive\Escritorio\CooperativaGuastaFacil\obj\Debug\CooperativaGuastaFacil.Properties.Resources.resources
+C:\Users\diego\OneDrive\Escritorio\CooperativaGuastaFacil\obj\Debug\CooperativaGuastaFacil.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Escritorio\CooperativaGuastaFacil\obj\Debug\CooperativaGuastaFacil.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\CooperativaGuastaFacil\obj\Debug\CooperativaGuastaFacil.exe
+C:\Users\diego\OneDrive\Escritorio\CooperativaGuastaFacil\obj\Debug\CooperativaGuastaFacil.pdb

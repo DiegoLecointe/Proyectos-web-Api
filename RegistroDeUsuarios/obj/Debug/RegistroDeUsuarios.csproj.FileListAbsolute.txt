@@ -1,0 +1,10 @@
+C:\Users\diego\OneDrive\Escritorio\RegistroDeUsuarios\obj\Debug\RegistroDeUsuarios.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\RegistroDeUsuarios\obj\Debug\RegistroDeUsuarios.Form1.resources
+C:\Users\diego\OneDrive\Escritorio\RegistroDeUsuarios\obj\Debug\RegistroDeUsuarios.Properties.Resources.resources
+C:\Users\diego\OneDrive\Escritorio\RegistroDeUsuarios\obj\Debug\RegistroDeUsuarios.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Escritorio\RegistroDeUsuarios\obj\Debug\RegistroDeUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\RegistroDeUsuarios\bin\Debug\RegistroDeUsuarios.exe.config
+C:\Users\diego\OneDrive\Escritorio\RegistroDeUsuarios\bin\Debug\RegistroDeUsuarios.exe
+C:\Users\diego\OneDrive\Escritorio\RegistroDeUsuarios\bin\Debug\RegistroDeUsuarios.pdb
+C:\Users\diego\OneDrive\Escritorio\RegistroDeUsuarios\obj\Debug\RegistroDeUsuarios.exe
+C:\Users\diego\OneDrive\Escritorio\RegistroDeUsuarios\obj\Debug\RegistroDeUsuarios.pdb
